@@ -24,7 +24,7 @@ textarea:focus {
 
 .wmde-markdown {
   @apply bg-w;
-  font-family: Cantarell, "Source Han Serif CN VF" !important;
+  font-family: Cantarell, "Noto Sans JP" , "Source Han Serif CN VF" !important;
 }
 
 .w-md-editor {
