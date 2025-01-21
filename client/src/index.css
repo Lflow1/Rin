@@ -15,7 +15,7 @@
 
 body {
   @apply bg-background-light dark:bg-background-dark text-gray-800;
-  font-family: Cantarell, "Source Han Serif CN VF" !important;
+  font-family: Cantarell, "Noto Sans JP" , "Source Han Serif CN VF" !important;
 }
 
 textarea:focus {
